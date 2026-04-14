@@ -1,7 +1,7 @@
 # AMSI-Bypass
 PowerShell AMSI bypass using Reflection.Emit to dynamically create P/Invoke wrappers in memory  patches AmsiScanBuffer and AmsiScanString at runtime without Add-Type or disk writes. 
 
-# Tested on the following Windows 11 version 
+# Tested on PowerShell 5.1
 
 | Name  | Value |
 | ------------- | ------------- |
